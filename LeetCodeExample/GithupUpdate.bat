@@ -1,4 +1,4 @@
 
 del *.db
-del /s /x /y /z /f x64
+del /s /y /z /f x64
 
