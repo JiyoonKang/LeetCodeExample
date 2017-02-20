@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Helper">
+      <UniqueIdentifier>{467ac24d-107a-40b3-b4d6-33dff58813b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode">
+      <UniqueIdentifier>{d2c82987-d9df-4165-88e6-5bd6edeb23cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\Sudoku">
+      <UniqueIdentifier>{b9783ed0-d995-4371-a3df-52e83548e63e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\TwoSum">
+      <UniqueIdentifier>{cc0476eb-548c-4383-b04c-0068133a33f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\AddTwoNumbers">
+      <UniqueIdentifier>{6d07a2b7-fbd7-4b77-a9f7-a89a72e4a389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{c9f3225f-f46a-41b8-9193-0cb0925e6263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\LongestSubstring">
+      <UniqueIdentifier>{460e3d9a-986c-484d-8a96-fc8c206e8fd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\MedianSortedArrays">
+      <UniqueIdentifier>{5d889557-0266-4d16-ba47-699ccca95a7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\LongestPalindrome">
+      <UniqueIdentifier>{f1aba86a-adbb-4c14-aaa8-868b628f06aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\ZigZag">
+      <UniqueIdentifier>{8e612890-e286-4db1-92e2-70e848b9e17b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\ReverseInteger">
+      <UniqueIdentifier>{63159b3f-68ad-47ff-bbbe-a33b02589896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Leetcode\StringToInt">
+      <UniqueIdentifier>{23be365d-7360-4171-89d0-698cb37900eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Sudoku.cpp">
+      <Filter>Leetcode\Sudoku</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSum.cpp">
+      <Filter>Leetcode\TwoSum</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTwoNumers.cpp">
+      <Filter>Leetcode\AddTwoNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstringWithoutRep.cpp">
+      <Filter>Leetcode\LongestSubstring</Filter>
+    </ClCompile>
+    <ClCompile Include="MedianofTwoSortedArray.cpp">
+      <Filter>Leetcode\MedianSortedArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestPalindrome.cpp">
+      <Filter>Leetcode\LongestPalindrome</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZagConv.cpp">
+      <Filter>Leetcode\ZigZag</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseInteger.cpp">
+      <Filter>Leetcode\ReverseInteger</Filter>
+    </ClCompile>
+    <ClCompile Include="StringToInt.cpp">
+      <Filter>Leetcode\StringToInt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sudoku.h">
+      <Filter>Leetcode\Sudoku</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Leetcode\TwoSum</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumers.h">
+      <Filter>Leetcode\AddTwoNumbers</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringWithoutRep.h">
+      <Filter>Leetcode\LongestSubstring</Filter>
+    </ClInclude>
+    <ClInclude Include="MedianofTwoSortedArray.h">
+      <Filter>Leetcode\MedianSortedArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindrome.h">
+      <Filter>Leetcode\LongestPalindrome</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConv.h">
+      <Filter>Leetcode\ZigZag</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>Leetcode\ReverseInteger</Filter>
+    </ClInclude>
+    <ClInclude Include="StringToInt.h">
+      <Filter>Leetcode\StringToInt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

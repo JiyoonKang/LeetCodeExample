@@ -1,0 +1,30 @@
+﻿  ZigZagConv.cpp
+  TwoSum.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\twosum.cpp(6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Test.cpp
+  Sudoku.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\sudoku.cpp(66): warning C4101: 'num': unreferenced local variable
+  StringToInt.cpp
+  ReverseInteger.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\reverseinteger.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\reverseinteger.cpp(30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MedianofTwoSortedArray.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\medianoftwosortedarray.cpp(90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  LongestSubstringWithoutRep.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\longestsubstringwithoutrep.cpp(20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LongestPalindrome.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\longestpalindrome.cpp(10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AddTwoNumers.cpp
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\addtwonumers.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hyunwooo\desktop\leetcodeexample\leetcodeexample\leetcodeexample\addtwonumers.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  LeetCodeExample.vcxproj -> C:\Users\Hyunwooo\Desktop\LeetCodeExample\LeetCodeExample\x64\Debug\LeetCodeExample.exe
